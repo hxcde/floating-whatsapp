@@ -1,4 +1,4 @@
-# Floating-WhatsApp 🚀
+# Floating-WhatsApp
 
 Welcome to Floating-WhatsApp! This project provides an easy-to-implement PHP file that allows you to add a floating WhatsApp icon/link to the bottom-right corner of your website.
 
